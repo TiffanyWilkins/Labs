@@ -14,13 +14,7 @@
 
 <img width="1364" alt="image" src="https://github.com/TiffanyWilkins/Scalable-Data-Analytics-Project/assets/54362628/2060ece7-eed5-4ce0-8cc6-2b2cdacab013">
 <img width="813" alt="image" src="https://github.com/TiffanyWilkins/Scalable-Data-Analytics-Project/assets/54362628/b9e57d8c-41e1-43f3-891d-ac441fe9f8de">
-Elite users have a slightly larger average star rating than non-elite users
 
-Some interesting insights to consider…
-
-Elite users may have higher standards since they need to meet certain criteria to earn their status
-
-Elite users may also be more active on Yelp and have more experience. This is backed up by the previous slide where elite users accounted for 45% of the total reviews while only 4.6% of the total users
 
 <img width="2119" alt="image" src="https://github.com/TiffanyWilkins/Scalable-Data-Analytics-Project/assets/54362628/77b6040e-826a-4db5-a7f2-c34b7245f933">
 
