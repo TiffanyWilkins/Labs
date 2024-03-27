@@ -27,4 +27,41 @@ Elite users may also be more active on Yelp and have more experience. This is ba
 <img width="294" alt="image" src="https://github.com/TiffanyWilkins/Scalable-Data-Analytics-Project/assets/54362628/0fb141fa-ca6a-46f3-864c-ca122ff7c662">
 <img width="294" alt="image" src="https://github.com/TiffanyWilkins/Scalable-Data-Analytics-Project/assets/54362628/e018c7fb-8138-4e6c-b547-ab37bdf10a81">
 
+<img width="778" alt="image" src="https://github.com/TiffanyWilkins/Scalable-Data-Analytics-Project/assets/54362628/c65bead3-38fa-4393-9b61-abfb874cec5f">
+<img width="803" alt="image" src="https://github.com/TiffanyWilkins/Scalable-Data-Analytics-Project/assets/54362628/068284f2-c9c9-41f3-acf9-8ec10c85cc24">
+<img width="1480" alt="image" src="https://github.com/TiffanyWilkins/Scalable-Data-Analytics-Project/assets/54362628/25c7c5c5-3937-4982-a12c-0b1374a1933f">
+<img width="1015" alt="image" src="https://github.com/TiffanyWilkins/Scalable-Data-Analytics-Project/assets/54362628/f98cd98a-51fb-4a97-957b-757607ecb448">
+![image](https://github.com/TiffanyWilkins/Scalable-Data-Analytics-Project/assets/54362628/b80a7389-2a5f-4854-b2a8-ea6dff74fb76)
+
+<img width="1288" alt="image" src="https://github.com/TiffanyWilkins/Scalable-Data-Analytics-Project/assets/54362628/77bf4948-0c72-4161-8762-9691ef335286">
+Can we predict that a review was written by an elite or non-elite reviewer?
+<img width="804" alt="image" src="https://github.com/TiffanyWilkins/Scalable-Data-Analytics-Project/assets/54362628/ab8925d4-f098-499b-9fa9-66c3e462223d">
+Random Forest Classifier  
+
+Split the data into training (70%) and testing (30%) sets.
+
+Evaluated our models performance using MulticlassClassificationEvaluator & accuracy metric.
+
+Our model accuracy was 85.89% for correctly predicting test data. However, after plotting the ROC curve. The AUC was 0.66.
+
+This suggests that the model is just slightly better than random at distinguishing from elite and non-elite reviewers.
+
+Logistic Regression
+
+70/30 Split
+
+Model accuracy was slightly better at 86.79%.
+
+AUC score: 0.78
+
+This indicates that the model has a relatively strong ability to distinguish between positive and negative classes
+<img width="887" alt="image" src="https://github.com/TiffanyWilkins/Scalable-Data-Analytics-Project/assets/54362628/b6e35d44-2ea2-490e-bc42-3aa4b73206b1">
+<img width="285" alt="image" src="https://github.com/TiffanyWilkins/Scalable-Data-Analytics-Project/assets/54362628/f78a2646-6064-40d3-86ce-c5c18ba17bd0">
+<img width="285" alt="image" src="https://github.com/TiffanyWilkins/Scalable-Data-Analytics-Project/assets/54362628/fb02e202-fb77-47f3-8d92-0a5b2965a508">
+
+
+
+
+
+
 
