@@ -5,4 +5,6 @@
 <img width="826" alt="image" src="https://github.com/TiffanyWilkins/Scalable-Data-Analytics-Project/assets/54362628/95c532fb-b370-471b-a7c6-50e435282fea">
  
 <img width="1176" alt="image" src="https://github.com/TiffanyWilkins/Scalable-Data-Analytics-Project/assets/54362628/5a46bf5a-4f1b-4ee0-87ee-c71059cb4ca7">
+<img width="224" alt="image" src="https://github.com/TiffanyWilkins/Scalable-Data-Analytics-Project/assets/54362628/0f6574eb-65d6-401e-a705-d29b535b0167">
+<img width="268" alt="image" src="https://github.com/TiffanyWilkins/Scalable-Data-Analytics-Project/assets/54362628/ab490339-32af-4b03-948c-c9e6e87019dc">
 
