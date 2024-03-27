@@ -28,7 +28,7 @@
 ![image](https://github.com/TiffanyWilkins/Scalable-Data-Analytics-Project/assets/54362628/b80a7389-2a5f-4854-b2a8-ea6dff74fb76)
 
 <img width="1288" alt="image" src="https://github.com/TiffanyWilkins/Scalable-Data-Analytics-Project/assets/54362628/77bf4948-0c72-4161-8762-9691ef335286">
-Can we predict that a review was written by an elite or non-elite reviewer?
+
 <img width="804" alt="image" src="https://github.com/TiffanyWilkins/Scalable-Data-Analytics-Project/assets/54362628/ab8925d4-f098-499b-9fa9-66c3e462223d">
 Random Forest Classifier  
 
